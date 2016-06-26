@@ -1,0 +1,12 @@
+h1 {  color:white;
+      font-size:50px;
+
+}
+body {
+  background-color:gray;
+}
+p {
+  text-align:left;
+  font-family:"Times New Roman", times, serif;
+  font-size:25px;
+}
